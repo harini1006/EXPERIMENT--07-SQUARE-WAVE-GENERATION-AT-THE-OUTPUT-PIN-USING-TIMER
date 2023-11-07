@@ -99,8 +99,7 @@ Step14. click on debug and simulate using simulation as shown below
 ```
 DEVELOPED BY: HARINI V
 REGISTER NO: 212222230044
-```
-```
+
 #include "main.h"
 
 
